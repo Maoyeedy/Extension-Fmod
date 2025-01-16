@@ -1,0 +1,4 @@
+[submodule "FmodProject"]
+	path = FmodProject
+	url = https://github.com/Maoyeedy/Extension-Fmod
+	branch = FmodProject
